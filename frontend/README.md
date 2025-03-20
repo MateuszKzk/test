@@ -1,6 +1,6 @@
 # MyApp (frontend)
 
-A Quasar Project
+Startsy
 
 ## Install the dependencies
 ```bash
